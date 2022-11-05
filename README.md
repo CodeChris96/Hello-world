@@ -7,4 +7,4 @@
 
 \f0\fs24 \cf0 README FILE\
 \
-Testing adding and tracking to git through terminal}
+Testing adding and tracking to git through terminal / Adding commit}
